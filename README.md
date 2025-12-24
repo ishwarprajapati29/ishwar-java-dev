@@ -25,3 +25,23 @@
 
 📫 Contact Me:
 - Email: ishwarprajapati.527@gmail.com
+
+#Core Java Topics:
+📌 Table of Contents
+
+🔰 Introduction to Java
+🧱 Java Fundamentals
+🔀 Control Flow
+📦 Arrays
+🧠 OOPs Concepts
+🔑 Java Keywords
+🧵 String Handling
+🎁 Wrapper Classes
+⚠ Exception Handling
+🧵 Multithreading
+📂 File Handling (I/O)
+🗂 Collections Framework
+🚀 Java 8 Features
+🧩 Inner Classes
+📦 Packages & Access Modifiers
+🧠 JVM & Memory Management
